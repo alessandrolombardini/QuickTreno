@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="QuickTreno.Bot">
+    <Position X="7.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAACAAAAAAI=</HashCode>
+      <FileName>Bot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuickTreno.Dettaglio">
+    <Position X="4.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>Dettaglio.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuickTreno.FormatoStringhe">
+    <Position X="6" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAAAAAAgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FormatoStringhe.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuickTreno.Keyboard">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAkAAAoQAAEAAAAAAAAAAAECAAAEAABAAA=</HashCode>
+      <FileName>Keyboard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuickTreno.LocalDatabase">
+    <Position X="7.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAEAQQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LocalDatabase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuickTreno.Preferiti">
+    <Position X="9.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEICAABAAAAggAAAAAAAAgAAMAAAAFQAIAA=</HashCode>
+      <FileName>Preferiti.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuickTreno.Program">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BgAACEIAQCCIQAAAAAAAAAAAACAAAAAAAAAABAAABAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuickTreno.Tabellone">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAICAAiIAAABAAAAAAAAAhAAAAAIAAAAgAE=</HashCode>
+      <FileName>Tabellone.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuickTreno.Treno">
+    <Position X="4.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAACIAAAAEEAAAAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>Treno.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuickTreno.TrovaTreno">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAIAAABhCIAAAFAABAQAAAAAEBgAAACAAAIAQAAgAU=</HashCode>
+      <FileName>TrovaTreno.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
